@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Ritish Reddy
-        </a>
+        
       </header>
     </div>
   );
